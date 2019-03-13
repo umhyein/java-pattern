@@ -1,5 +1,3 @@
-package strategy;
-
 import strategy.animal.Animal;
 import strategy.animal.Bird;
 import strategy.behavior.WalkBehavior;
